@@ -1,0 +1,24 @@
+[
+    {
+        "dataSet": "1",
+        "contactTopBarInnerText": "KONTAKT",
+        "contactPageLink": "https://qualityminds.de/kontakt/",
+        "contactPageMail": "hello@qualityminds.de",
+        "contactFooterInnextText": "KONTAKT & ANFAHRT",
+        "portfolioFirstElementName": "AI Testing",
+        "portfolioTopNavColour": "rgb(130, 186, 69)",
+        "webAutomationMobileTestsLink": "https://qualityminds.de/team_page/wam-testing/",
+        "wamMobileDownloadLink": "https://qualityminds.de/app/uploads/2018/11/Find-The-Mobile-Bug-Session.pdf",
+        "wamMobileDownloadFileName": "Find-The-Mobile-Bug-Session.pdf",
+        "wamMobileUnderlineColour": "rgb(151, 151, 151)",
+        "careersTopBarInnerText": "KARRIERE",
+        "careersPageLink": "https://qualityminds.de/karriere/",
+        "careersApplyNowForm": "https://qualityminds.de/kontaktformular/",
+        "applyNowName": "John",
+        "applyNowLastName": "Doe",
+        "applyNowEmail": "thissupposedtobeamail",
+        "applyNowEmptyFieldsErrorMessage": "Dies ist ein Pflichtfeld.",
+        "applyNowWrongEmailErrorMessage": "Die Eingabe muss eine gültige E-Mail-Adresse sein.",
+        "applyNowAttachmentFileName": "testAttachment.pdf"
+    }
+]

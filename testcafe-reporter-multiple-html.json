@@ -1,0 +1,7 @@
+{
+  "args": {
+    "appName": false,
+    "appVersion": false,
+    "reportFolder": ".report"
+  }
+}

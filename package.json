@@ -1,0 +1,21 @@
+{
+    "name": "quality-minds",
+    "version": "1.0.0",
+    "description": "Project written in TestCafe using Javascript as a part corporate site automation",
+    "main": "index.js",
+    "directories": {
+        "test": "tests"
+    },
+    "engines": {
+        "node": ">=14.16"
+    },
+    "dependencies": {
+        "testcafe-reporter-multiple-html": "^1.0.0"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.15.0",
+        "dotenv": "^10.0.0",
+        "testcafe": "^1.15.3"
+    },
+    "author": "Wioletta Miklasewicz"
+}
